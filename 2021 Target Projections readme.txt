@@ -4,4 +4,4 @@ Without getting too technical, GBR, or gradient boosting regression, uses decisi
 
 Logistic regression (LR) takes a slightly different approach in that it uses more statistical probability with its determinations. If we keep the Heads Up example, this would be similar to getting a hint of the answer before making a prediction. 
 
-Full disclosure: I am not a professional data scientist! I am a master’s student with a focus in big data analytics, and an interest particularly in machine learning. Namely because I can use it with fantasy football research. These projections are meant to be used as a baseline for further analysis, and not a complete player-to-number projection.
+Full disclosure: I am not a professional data scientist! I am a master’s student with a focus in big data analytics, and an interest particularly in machine learning. Namely because I can use it with fantasy football research. The projections are the result from a self-directed project. These projections are meant to be used as a baseline for further analysis, and not a complete player-to-number projection.
